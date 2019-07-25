@@ -1,1 +1,1 @@
-# Account-Balancer
+Simple application that helps a user balance their checking account At the end of the program when the user has finished entering in their data it will print out the list of transactions with the total.
